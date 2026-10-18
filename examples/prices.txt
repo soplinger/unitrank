@@ -1,0 +1,16 @@
+# unitrank price list
+# item | store | pack | price [| date]
+# pack: '1 kg', '6 x 330 ml', '12 fl oz', '18 ct'
+# price: exact cents, optionally with a discount: 6.99 -10%
+
+oats | Aldi | 1 kg | 1.89
+oats | Kroger | 750 g | 1.49
+oats | Costco | 2 x 1.5 lb | 6.99 -10%
+
+milk | Aldi | 4 x 1 L | 4.20
+milk | Kroger | 2 L | 2.19 | 2026-01-05
+milk | Kroger | 2 L | 2.35 | 2026-09-02
+milk | Co-op | 1 L | 1.25
+
+eggs | Aldi | 12 ct | 3.10
+eggs | Kroger | 18 each | 4.79

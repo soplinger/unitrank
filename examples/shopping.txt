@@ -1,0 +1,6 @@
+# unitrank shopping list
+# item | quantity needed
+
+oats | 2.5 kg
+milk | 3 L
+eggs | 12 ct
